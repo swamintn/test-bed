@@ -1,0 +1,11 @@
+An example in C++ and Python for downloading a set of pdfs from a site.
+
+So much easier in Python...
+
+Execution:
+Python: python algo_ppt_downloader.py <out_location>
+
+C++: make algo_ppt_downloader
+     algo_ppt_downloader <out_location>
+
+     To clean, use 'make clean'
